@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hicknowald
 - 👀 I’m interested in web3 & nfts
 - 🌱 I’m currently learning figma, html/css
-- 💞️ I’m looking to collaborate on contributing to daos
+- 💞️ I’m looking to contribut to daos
 - 📫 How to reach me: hicknowaldeth@gmail.com
 
 <!---
